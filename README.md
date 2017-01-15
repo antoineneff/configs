@@ -1,6 +1,6 @@
 # configs
 
-## Mac config
+## macOS config
 ### Applications
 - [iTerm2](https://www.iterm2.com/) (Terminal)
 - [Visual Studio Code](https://code.visualstudio.com/) (Code editor)
