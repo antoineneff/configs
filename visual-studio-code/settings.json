@@ -1,0 +1,8 @@
+// Placez vos paramètres dans ce fichier pour remplacer les paramètres par défaut
+{
+    "editor.fontSize": 14,
+    "editor.lineHeight": 26,
+    "editor.fontFamily": "Fira Mono, Menlo, Monaco, 'Courier New', monospace",
+    "editor.wordWrap": true,
+    "editor.renderIndentGuides": true
+}
