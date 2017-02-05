@@ -4,5 +4,6 @@
     "editor.lineHeight": 26,
     "editor.fontFamily": "Fira Mono, Menlo, Monaco, 'Courier New', monospace",
     "editor.wordWrap": true,
-    "editor.renderIndentGuides": true
+    "editor.renderIndentGuides": true,
+    "files.trimTrailingWhitespace": true
 }
