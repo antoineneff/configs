@@ -1,9 +1,16 @@
-// Placez vos paramètres dans ce fichier pour remplacer les paramètres par défaut
 {
-    "editor.fontSize": 14,
-    "editor.lineHeight": 26,
+    "editor.fontSize": 16,
+    "editor.lineHeight": 32,
     "editor.fontFamily": "Fira Mono, Menlo, Monaco, 'Courier New', monospace",
-    "editor.wordWrap": true,
+    "editor.wordWrap": "on",
     "editor.renderIndentGuides": true,
-    "files.trimTrailingWhitespace": true
+
+    "editor.detectIndentation": false,
+
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "workbench.iconTheme": "vscode-great-icons",
+    "window.zoomLevel": 0,
+    "workbench.fontAliasing": "antialiased",
+    "workbench.colorTheme": "One Dark Pro"
 }
