@@ -12,6 +12,7 @@
 - [VLC](http://www.videolan.org/) (Multimedia player)
 - [Etcher](https://etcher.io/) (Image flasher)
 - [AppCleaner](https://freemacsoft.net/appcleaner/) (Uninstall apps)
+- [f.lux](https://justgetflux.com/) (Screen lighting)
 
 ### Tools
 - [Homebrew](http://brew.sh/) (macOS package manager)
