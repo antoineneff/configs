@@ -13,6 +13,7 @@
 - [Etcher](https://etcher.io/) (Image flasher)
 - [AppCleaner](https://freemacsoft.net/appcleaner/) (Uninstall apps)
 - [f.lux](https://justgetflux.com/) (Screen lighting)
+- [Amphetamine](https://itunes.apple.com/fr/app/amphetamine/id937984704) (Keep Mac awake)
 
 ### Tools
 - [Homebrew](http://brew.sh/) (macOS package manager)
