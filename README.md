@@ -8,7 +8,7 @@
 - [Google Chrome](https://www.google.com/chrome/) (Web browser)
 - [The Unarchiver](http://unarchiver.c3.cx/unarchiver) (Archive utility)
 - [Discord](https://discordapp.com/) (Chat app)
-- [Dr.Cleaner](http://appletuner.trendmicro.com/drcleaner/) (Memory optimization)
+- [Dr.Cleaner](https://www.drcleaner.com/dr-cleaner/) (Memory optimization)
 - [VLC](http://www.videolan.org/) (Multimedia player)
 - [Etcher](https://etcher.io/) (Image flasher)
 - [AppCleaner](https://freemacsoft.net/appcleaner/) (Uninstall apps)
