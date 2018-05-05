@@ -2,5 +2,5 @@
 
 ### Extensions
 
-- Material-theme
-- VSCode Great Icons
+- Theme : Afeem
+- Icons : VSCode Great Icons
