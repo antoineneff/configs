@@ -4,7 +4,6 @@
 ### Applications
 - [iTerm2](https://www.iterm2.com/) (Terminal)
 - [Visual Studio Code](https://code.visualstudio.com/) (Code editor)
-- [ShiftIt](https://github.com/fikovnik/ShiftIt) (Windows management)
 - [Brave](https://brave.com/) (Web browser)
 - [The Unarchiver](http://unarchiver.c3.cx/unarchiver) (Archive utility)
 - [Discord](https://discordapp.com/) (Chat app)
@@ -13,7 +12,7 @@
 - [Etcher](https://etcher.io/) (Image flasher)
 - [AppCleaner](https://freemacsoft.net/appcleaner/) (Uninstall apps)
 - [f.lux](https://justgetflux.com/) (Screen lighting)
-- [Amphetamine](https://itunes.apple.com/fr/app/amphetamine/id937984704) (Keep Mac awake)
+- [Hammerspoon](https://www.hammerspoon.org/) (Automation tool)
 
 ### Tools
 - [Homebrew](http://brew.sh/) (macOS package manager)
