@@ -12,8 +12,10 @@
 - [Etcher](https://etcher.io/) (Image flasher)
 - [AppCleaner](https://freemacsoft.net/appcleaner/) (Uninstall apps)
 - [f.lux](https://justgetflux.com/) (Screen lighting)
-- [Hammerspoon](https://www.hammerspoon.org/) (Automation tool)
 
 ### Tools
 - [Homebrew](http://brew.sh/) (macOS package manager)
 - [Oh My Zsh](http://ohmyz.sh/) (zsh framework)
+- [Hammerspoon](https://www.hammerspoon.org/) (Automation tool)
+- [QMK Toolbox](https://github.com/qmk/qmk_toolbox) (Keyboard flashing tool)
+- [Via](https://caniusevia.com/) (Keyboad mapping and testing tool)
